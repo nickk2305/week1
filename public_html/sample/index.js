@@ -1,3 +1,3 @@
-function (x) {
-  return x *this *this;
+(x) => {
+  return x * this * this;
 }
