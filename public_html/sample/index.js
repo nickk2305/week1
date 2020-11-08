@@ -1,3 +1,3 @@
-(x) => {
+ function task(x) {
   return x * this * this;
 }
