@@ -1,0 +1,14 @@
+{
+  "name": "week1",
+  "version": "1.0.0",  
+  "main": "index.js",
+  "repository": "https://github.com/nickk2305/week1.git",
+  "author": "nickk2305 <tyunickadm@gmail.com>",
+  "license": "MIT",
+  "Content-Type": "text/plain; charset=UTF-8",
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/plugin-proposal-pipeline-operator": "^7.12.1"
+  }
+}
