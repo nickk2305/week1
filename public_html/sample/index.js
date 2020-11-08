@@ -1,3 +1,3 @@
-16 function task(x) {
+function task(x) {
   return x *this *this;
 }
